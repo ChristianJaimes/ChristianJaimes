@@ -1,7 +1,10 @@
 ## Hi there 👋
+![github-foundations](https://github.com/ChristianJaimes/ChristianJaimes/assets/50466352/1bbbcace-d0ca-40e8-b52f-4a752b0cfa79)
+
 
 <!--
-**ChristianJaimes/ChristianJaimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChristianJaimes/ChristianJaimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) a![github-foundations](https://github.com/ChristianJaimes/ChristianJaimes/assets/50466352/d9f0dac1-7a3c-4de4-9872-114cb4914dbc)
+ppears on your GitHub profile.
 
 Here are some ideas to get you started:
 
